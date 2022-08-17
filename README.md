@@ -18,8 +18,13 @@
 `helloo`
 ######
 ![again, i dont know] (![image](https://user-images.githubusercontent.com/89120298/185035363-4827837e-1eb7-493b-9174-97314f8cddf1.jpeg)
-*cat
-*cat
-[x] cat
-[ ] cat
+######
+* cat
+######
+* cat
+######
+- [x] cat
+######
+- [ ] cat
+######
 :hugs:
